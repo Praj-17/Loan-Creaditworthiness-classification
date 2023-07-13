@@ -27,13 +27,12 @@ The dataset presents us with 2 tables namely applicant and loans which contain a
 I have performed all the major Machine Learning procedures such as , Exploratory Data Analysis, Data Analytics, Data Preprocessing, Feature Engineering, Feature Selection, Modeling and Explainable AI on the dataset.
 
 ### Procedure
+![image](https://github.com/Praj-17/Loan-Creaditworthiness-classification/assets/90028385/987e7c9f-9b77-45aa-b02e-e82a128587f0)
 
-![](RackMultipart20230108-1-efai30_html_f2e81d86a0ae9c55.png)
 
 ### Methodology
 
-1.
-### Data Management –
+1.### Data Management –
 
 ### [visit]
 (https://github.com/Praj-17/Loan-Creaditworthiness-classification/blob/main/data_manager.ipynb)
