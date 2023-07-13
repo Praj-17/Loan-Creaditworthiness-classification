@@ -16,6 +16,10 @@ Colab = [https://colab.research.google.com/drive/1NiH\_xen-GZwkCAk34TbK8NpZB-2-H
 
 Drive = [https://drive.google.com/drive/folders/1-U5q9mKspe22HN\_4fvZhVFGZ0zpKI7AS?usp=share\_link](https://drive.google.com/drive/folders/1-U5q9mKspe22HN_4fvZhVFGZ0zpKI7AS?usp=share_link)
 
+Guidance Note = [https://docs.google.com/document/d/1Ko0uSMCvXsll6WMdj_FzpS5pP_NcIOlStoxrUFwpg84/edit?usp=sharing](https://docs.google.com/document/d/1Ko0uSMCvXsll6WMdj_FzpS5pP_NcIOlStoxrUFwpg84/edit?usp=sharing)
+
+Explaination video link = [https://youtu.be/2Bgn16NetPs](https://youtu.be/2Bgn16NetPs)
+
 ### Problem Statement
 
 The Problem statement is to prepare a model based upon the given dataset which classifies a new applicant as risky or creditworthy.
